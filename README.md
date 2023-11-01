@@ -1,6 +1,5 @@
 ### Hi there 👋
 
 
-- 🔭 My stack : Learning JS && Vue
-- In the future : Might learn TS  || Node ?
+- 🔭 My stack : Learning JS 
 - 📫 How to reach me: DM me on twitter @_faiern
